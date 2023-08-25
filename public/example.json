@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1160,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "EditorDavid",
+        "title": "Perl ojdod 6.00 Released with New Experimental Syntax for Defining Object Classes",
+        "description": "Perl osdo 6.00 was released this week \"after being in development for more than one year,\" reports Phoronix. \"Perl 5.38 brings a new experimental syntax for defining object classes where per-instance data is stored in 'field' variables that behave like lexicals.\" …",
+        "url": "https://developers.slashdot.org/story/23/07/08/0055207/perl-538-released-with-new-experimental-syntax-for-defining-object-classes",
+        "urlToImage": "https://a.fsdn.com/sd/topics/topicperl.gif",
+        "publishedAt": "2023-07-08T15:34:00Z",
+        "content": "Perl 5.38 was released this week \"after being in development for more than one year,\" reports Phoronix. \"Perl 5.38 brings a new experimental syntax for defining object classes where per-instance data… [+1580 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Joseph Chukwube",
+        "title": "5 Must-Have Group of Tools for Every Business and SEO Specialist in 2023",
+        "description": "As the digital landscape evolves, so do the tools and strategies needed to make businesses succeed online. Search Engine Optimization itself, as a business marketing strategy, has had its ‘death’ declared so many times because it felt like it was no longer re…",
+        "url": "https://readwrite.com/tools-for-every-business-and-seo-specialist-in-2023/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/05/dan-cristian-padure-noOXRT9gfQ8-unsplash.jpg",
+        "publishedAt": "2023-06-20T15:00:28Z",
+        "content": "As the digital landscape evolves, so do the tools and strategies needed to make businesses succeed online. Search Engine Optimization itself, as a business marketing strategy, has had its death decla… [+7676 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moz.com"
+        },
+        "author": "Adriana Stein",
+        "title": "How to Combat SERP Volatility",
+        "description": "What is SERP volatility? How can you combat SERP volatility to maintain important keyword rankings? Get the full overview here! Map out the best course of action and plow full steam ahead.",
+        "url": "https://moz.com/blog/combat-serp-volatility",
+        "urlToImage": null,
+        "publishedAt": "2023-07-05T07:00:00Z",
+        "content": "Have you ever lost keyword rankings and felt a sudden wave of panic? If so, you’ve likely been on the wrong end of SERP volatility, meaning periods of extreme fluctuation in keyword rankings. But bef… [+15381 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Peggy Paul Casella",
+        "title": "How to Actually Find Good Recipes Online",
+        "description": "So many food blogs and recipe sites are samey and full of pretty pictures but untested recipes. Don't worry, it's possible to find something you'll love to cook and eat.",
+        "url": "https://www.wired.com/story/how-to-find-good-recipes-online/",
+        "urlToImage": "https://media.wired.com/photos/649ed317da92561daff93bbf/191:100/w_1280,c_limit/recipe_digital_box_culture_GettyImages-1302884718.jpg",
+        "publishedAt": "2023-07-02T11:00:00Z",
+        "content": "Ever been catfished by a recipe that ranks at the top of your Google search but turns out meh when you make it yourself? Google does mean well by favoring longer, keyword-rich posts, videos, and stud… [+4556 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "tips@androidcentral.com (Nickolas Diaz)",
+        "title": "Google Lens can identify skin conditions and is coming soon to Bard",
+        "description": "Google Lens gains the ability to identify skin conditions, bumps on the body, and hair loss.",
+        "url": "https://www.androidcentral.com/apps-software/google-lens-identify-skin-conditions",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/WMab7m8CVng8rUHffk5bgR-1200-80.jpg",
+        "publishedAt": "2023-06-14T19:48:54Z",
+        "content": "<ul><li>Google highlights various ways to use Google Lens on mobile devices.</li><li>Google Lens has gained a new feature, allowing users to snap a photo of their skin, bump, or hair loss to discover… [+1508 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Prashant Kumar",
+        "title": "How Artificial Intelligence is Revolutionizing Search Engine Optimization (SEO)",
+        "description": "Artificial Intelligence search engine Optimization AI SEO, also known as Artificial Intelligence SEO, is the use of artificial intelligence and […]\nThe post How Artificial Intelligence is Revolutionizing Search Engine Optimization (SEO) appeared first on Read…",
+        "url": "https://readwrite.com/how-artificial-intelligence-is-revolutionizing-search-engine-optimization-seo/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2023/05/AI-SEO.png",
+        "publishedAt": "2023-07-05T15:00:43Z",
+        "content": "Artificial Intelligence search engine Optimization\r\nAI SEO, also known as Artificial Intelligence SEO, is the use of artificial intelligence and machine learning techniques to optimize a website for … [+1260 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Al Williams",
+        "title": "Freq Out with LTSpice",
+        "description": "We always enjoy [FesZ’s] videos, and his latest about FREQ function in LTSpice is no exception. In fact, LTSpice doesn’t document it, but it is part of the underlying Spice system. So, …",
+        "url": "https://hackaday.com/2023/07/03/freq-out-with-ltspice/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2023/07/spicefreq.png",
+        "publishedAt": "2023-07-03T08:00:28Z",
+        "content": "We always enjoy [FesZ’s] videos, and his latest about FREQ function in LTSpice is no exception. In fact, LTSpice doesn’t document it, but it is part of the underlying Spice system. So, of course, you… [+1213 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cedwards.xyz"
+        },
+        "author": null,
+        "title": "Defer for Shell",
+        "description": "Comments",
+        "url": "https://cedwards.xyz/defer-for-shell/",
+        "urlToImage": null,
+        "publishedAt": "2023-06-20T23:19:21Z",
+        "content": "One of my favourite features of Go is the defer keyword. It allows for a clean way to cleanup resources upon returning from a function, whilst the statement itself is immediately after or in close pr… [+1059 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "VentureBeat"
+        },
+        "author": "Victor Dey",
+        "title": "Stravito launches generative AI tool for enterprise search and knowledge management",
+        "description": "New generative AI capabilities from knowledge management company Stravito aim to optimize search with transparent answers and links to sources.",
+        "url": "https://venturebeat.com/ai/stravito-launches-generative-ai-tool-enterprise-search-knowledge-management/",
+        "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/06/Stravito-Answers-Press-Image-1200x675px.jpg?w=1200&strip=all",
+        "publishedAt": "2023-06-22T16:00:00Z",
+        "content": "Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More\r\nStravito, an enterprise insights company, is introducing… [+1544 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Nate Nead",
+        "title": "SEO for Law Firms: A Comprehensive Guide",
+        "description": "With a proper strategy, law firms can significantly increase their chances of landing more qualified leads & clients because the increased visibility and enhanced credibility build trust with potential clients.  Ultimately effective SEO benefits everything fr…",
+        "url": "https://readwrite.com/seo-for-law-firms/",
+        "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/06/seo-for-law-firms.jpg",
+        "publishedAt": "2023-06-22T09:50:01Z",
+        "content": "With a proper strategy, law firms can significantly increase their chances of landing more qualified leads &amp; clients because the increased visibility and enhanced credibility build trust with pot… [+18783 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "tips@androidcentral.com (Nickolas Diaz)",
+        "title": "No NFC? Google Wallet is getting QR code payments",
+        "description": "Google is adding a new QR code payment option for the Wallet app in Brazil.",
+        "url": "https://www.androidcentral.com/apps-software/google-wallet-qr-code-brazil",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/TDFfcJFVXstY6N4j5kWHmW-1200-80.jpg",
+        "publishedAt": "2023-06-28T18:40:44Z",
+        "content": "<ul><li>Google plans to roll out a Wallet feature to let Brazilians utilize their phone's camera to scan a QR code for digital payment during checkout.</li><li>The feature is aimed at phones that don… [+2380 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hackaday"
+        },
+        "author": "Al Williams",
+        "title": "Better Noise Reduction with Science",
+        "description": "Most noise-blocking headphones fall into two categories: they use some kind of material to absorb or scatter noise, or they use active cancellation that creates a signal to oppose the noise signal.…",
+        "url": "https://hackaday.com/2023/07/06/better-noise-reduction-with-science/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2023/07/nc.png",
+        "publishedAt": "2023-07-06T23:00:00Z",
+        "content": "Most noise-blocking headphones fall into two categories: they use some kind of material to absorb or scatter noise, or they use active cancellation that creates a signal to oppose the noise signal. A… [+1330 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Gael Fashingbauer Cooper",
+        "title": "Google Lens Now Lets You Search for a Skin Condition. Here's How - CNET",
+        "description": "Worried about a rash or mole? You can find visual matches online and gather more information with Google's image-recognition technology.",
+        "url": "https://www.cnet.com/health/google-lens-now-lets-you-search-for-a-skin-condition-heres-how/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d27c43d5b7d02445f656e7d4bf2950ee0cadec1f/hub/2023/06/14/32297287-c058-4341-9a75-db92a3c5eb4b/google-lens-skin.png?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2023-06-14T22:11:42Z",
+        "content": "What's with that mole on your arm? Is that sudden rash a sign of something troubling? Not everyone is a dermatologist, and skin conditions can be concerning. A post uploaded Wednesday on Google's Key… [+1866 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Moz.com"
+        },
+        "author": "Zach Edelstein",
+        "title": "Build an SEO Report in Seconds with Domain Overview",
+        "description": "One of the most time-consuming SEO tasks is gathering all of your key metrics in one place. When assessing a website's SEO performance, numerous data points come into play, including prominent keyword rankings, Domain Authority, and link metrics. This blog po…",
+        "url": "https://moz.com/blog/seo-reports-domain-overview",
+        "urlToImage": null,
+        "publishedAt": "2023-06-15T07:00:00Z",
+        "content": "How to generate a snapshot SEO report in seconds with Domain OverviewTime. Resources. No matter the day, month, year, or algorithm update, these are 2 commodities of which SEOs will never have enough… [+5154 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quicksprout.com"
+        },
+        "author": "Lars Lofgren",
+        "title": "How to Increase SEO Traffic in 6 Simple Steps",
+        "description": "Want to just get started? Click here to sign up for SEMrush and increase SEO traffic today. We used to …\n How to Increase SEO Traffic in 6 Simple Steps Read More »\nThe post How to Increase SEO Traffic in 6 Simple Steps appeared first on .",
+        "url": "https://www.quicksprout.com/6-steps-to-increase-your-seo-traffic-right-now-guaranteed/",
+        "urlToImage": "https://www.quicksprout.com/wp-content/uploads/2023/06/increase-seo-traffic_featured-image.jpg",
+        "publishedAt": "2023-06-29T14:00:00Z",
+        "content": "Want to just get started? Click here to sign up for SEMrush and increase SEO traffic today.\r\nWe used to laugh at SEO.\r\nDead serious.\r\nBack when we were running the KISSmetrics blog, which grew to ove… [+14888 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Small Business Trends"
+        },
+        "author": "Myra Nizami",
+        "title": "How to Make Money on TikTok in 2023: The 15 Best Ways",
+        "description": "Come up with an amazing meta description that includes the keyword 'how to make money on TikTok",
+        "url": "https://smallbiztrends.com/2023/06/how-to-make-money-on-tiktok.html",
+        "urlToImage": "https://media.smallbiztrends.com/2023/01/HV-300-How-to-Make-Money-on-TikTok-in-2023-The-15-Best-Ways.png",
+        "publishedAt": "2023-06-13T22:50:09Z",
+        "content": "TikTok, the dynamic short video-sharing platform, has witnessed exponential growth and popularity in recent years, becoming a sensation on the internet. Hosting short-form videos ranging from fifteen… [+21667 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Central"
+        },
+        "author": "tips@androidcentral.com (Nickolas Diaz)",
+        "title": "Google explains how fall detection works on the Pixel Watch",
+        "description": "Google explains the work behind its fall detection feature and how it determines a hard fall from a simple stumble.",
+        "url": "https://www.androidcentral.com/wearables/google-explains-fall-detection",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/JCXbpCgaqgQv7WuWaVyanM-1200-80.jpg",
+        "publishedAt": "2023-06-14T00:49:30Z",
+        "content": "<ul><li>Google explains how it created the AI algorithm behind its fall detection feature on the Pixel Watch.</li><li>Rigs for simulation and even stunt doubles were required to pair this algorithm w… [+3214 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Wpbeginner.com"
+        },
+        "author": "Syed Balkhi",
+        "title": "Introducing Keyword Density Checker: Analyze Keyword Density to Boost Rankings",
+        "description": "Do you want to steal keyword ideas from your competitors ethically? Have you ever wished there was an easy way to fix over optimization on your site and boost search rankings WITHOUT hiring an SEO consultant?  If you’re like me and most other smart website… R…",
+        "url": "https://www.wpbeginner.com/news/introducing-keyword-density-checker-analyze-keyword-density-to-boost-rankings/",
+        "urlToImage": "https://www.wpbeginner.com/wp-content/uploads/2023/06/introducing-keyword-density-checker1.png",
+        "publishedAt": "2023-06-27T10:00:00Z",
+        "content": "Do you want to steal keyword ideas from your competitors ethically?\r\nHave you ever wished there was an easy way to fix over optimization on your site and boost search rankings WITHOUT hiring an SEO c… [+4776 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GameSpot"
+        },
+        "author": "Steve Watts",
+        "title": "Hearthstone \"Titans\" Expansion Brings Warcraft's Gods Into Play",
+        "description": "Hearthstone's next expansion will be named and themed after the most powerful beings in the Warcraft universe: Titans. The new set will introduce 145 new cards, including 11 Legendary \"Titan\" cards to represent each of Hearthstone's classes. The expansion wil…",
+        "url": "https://www.gamespot.com/articles/hearthstone-titans-expansion-brings-warcrafts-gods-into-play/1100-6515489/",
+        "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4157791-norgannon_progenitor%27spower.jpg",
+        "publishedAt": "2023-06-27T17:15:00Z",
+        "content": "Hearthstone's next expansion will be named and themed after the most powerful beings in the Warcraft universe: Titans. The new set will introduce 145 new cards, including 11 Legendary \"Titan\" cards t… [+1804 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Lightroomkillertips.com"
+        },
+        "author": "KelbyOne",
+        "title": "Effortlessly Discover All Your Photos with ON1 Photo Keyword AI",
+        "description": "ON1 has introduced an exciting new AI photo organizer, ON1 Photo Keyword AI 2023. This application harnesses the power of machine learning to make your photos easily discoverable and organized. As a leading provider of innovative photo editing software apps, …",
+        "url": "https://lightroomkillertips.com/effortlessly-discover-all-your-photos-with-on1-photo-keyword-ai/",
+        "urlToImage": "https://lightroomkillertips.com/wp-content/uploads/2023/06/0623-Blog-Keyword-AI-Discover.jpg",
+        "publishedAt": "2023-06-22T08:16:00Z",
+        "content": "ON1 has introduced an exciting new AI photo organizer, ON1 Photo Keyword AI 2023. This application harnesses the power of machine learning to make your photos easily discoverable and organized. As a … [+4195 chars]"
+      }
+    ]
+  }
