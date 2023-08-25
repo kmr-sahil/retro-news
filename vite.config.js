@@ -9,6 +9,6 @@ export default defineConfig({server: {
 },
   plugins: [
     react({
-      include: "**/*.js",
+      include: "**/*.jsx",
     })],
 })
