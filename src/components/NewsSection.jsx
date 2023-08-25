@@ -10,7 +10,13 @@ export default function NewsSection({category, country}) {
   useEffect(() => {
     const fetchData = async () => {
       //const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=3f8c75cdfedd4788b75e96e6600a4f7d&page=${page}&pageSize=18`
-      const response = await fetch('example.json');
+      const response = await fetch(`./example.json`, {
+        headers : { 
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+         }
+  
+      });
       const data = await response.json();
 
       setArticles(data.articles);
